@@ -1,6 +1,6 @@
 ### Hello hello 👋🏼
 ####   My name is Ava, and I'm a...  
-&nbsp; 👩🏻‍💻 &nbsp;&nbsp; STEMinista and full-stack engineer  
+&nbsp; 👩🏻‍💻 &nbsp;&nbsp; STEMinista and full-stack software engineer  
 &nbsp; ✌🏼 &nbsp;&nbsp; Computer science undergrad at USC  
 &nbsp; 💙 &nbsp;&nbsp;Current SWE intern at Facebook  
 &nbsp; 🐕 &nbsp;&nbsp;Dog lover
