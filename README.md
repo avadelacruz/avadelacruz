@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello hello 👋🏼
+####   My name is Ava, and I'm a...
+- 👩🏻‍💻 STEMinista and full-stack engineer  
+- ✌🏼 Computer science undergrad at USC
+- 💙 Current SWE intern at Facebook
+- 🐕 Dog lover
 
+#### You can find my resume [here.](https://drive.google.com/file/d/1wmnO-R1GRdfdg7Nz0nYe6oDVnnp7aqPC/view?usp=sharing)
 <!--
 **AvaDeLaCruz/AvaDeLaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
