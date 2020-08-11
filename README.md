@@ -5,7 +5,7 @@
 &nbsp; 💙 &nbsp;&nbsp;Current SWE intern at Facebook  
 &nbsp; 🐕 &nbsp;&nbsp;Dog lover
 
-#### You can find my resume [here.](https://drive.google.com/file/d/1wmnO-R1GRdfdg7Nz0nYe6oDVnnp7aqPC/view?usp=sharing)
+#### You can find my resume [here.](https://github.com/AvaDeLaCruz/DeLaCruz_Ava.pdf/blob/master/DeLaCruz_Ava.pdf)
 <!--
 **AvaDeLaCruz/AvaDeLaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
