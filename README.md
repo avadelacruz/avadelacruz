@@ -1,9 +1,9 @@
 ### Hello hello 👋🏼
-####   My name is Ava, and I'm a...
-- 👩🏻‍💻 STEMinista and full-stack engineer  
-- ✌🏼 Computer science undergrad at USC
-- 💙 Current SWE intern at Facebook
-- 🐕 Dog lover
+####   My name is Ava, and I'm a...  
+&nbsp; 👩🏻‍💻 &nbsp;&nbsp; STEMinista and full-stack engineer  
+&nbsp; ✌🏼 &nbsp;&nbsp; Computer science undergrad at USC  
+&nbsp; 💙 &nbsp;&nbsp;Current SWE intern at Facebook  
+&nbsp; 🐕 &nbsp;&nbsp;Dog lover
 
 #### You can find my resume [here.](https://drive.google.com/file/d/1wmnO-R1GRdfdg7Nz0nYe6oDVnnp7aqPC/view?usp=sharing)
 <!--
