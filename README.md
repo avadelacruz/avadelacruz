@@ -7,7 +7,10 @@ I am a...
 
 #### You can find my resume [here.](https://github.com/AvaDeLaCruz/DeLaCruz_Ava.pdf/blob/master/DeLaCruz_Ava.pdf) Thanks for stopping by! 🥰
 
-<img src="https://media.giphy.com/media/WSyz8TouS9jfW/giphy.gif"/></img>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AvaDeLaCruz&theme=vue&hide=stars&count_private=true&show_icons=true" />
+</a>
 
 
 <!--
@@ -23,5 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img align="left" src="https://media.giphy.com/media/WSyz8TouS9jfW/giphy.gif"/></img>
+
 -->
  
