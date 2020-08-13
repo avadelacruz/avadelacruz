@@ -1,5 +1,5 @@
-### Hello hello 👋🏼
-####   My name is Ava, and I'm a...  
+### 👋🏼 Hey there, I'm Ava DeLaCruz.
+I am a...  
 &nbsp; 👩🏻‍💻 &nbsp;&nbsp; STEMinista and full-stack software engineer  
 &nbsp; ✌🏼 &nbsp;&nbsp; Computer science undergrad at USC  
 &nbsp; 💙 &nbsp;&nbsp;Current SWE intern at Facebook  
