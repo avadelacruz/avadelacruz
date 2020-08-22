@@ -2,7 +2,7 @@
 I am a...  
 &nbsp; 👩🏻‍💻 &nbsp;&nbsp; STEMinista and full-stack software engineer  
 &nbsp; ✌🏼 &nbsp;&nbsp; Computer science undergrad at USC  
-&nbsp; 💙 &nbsp;&nbsp;Former SWE intern at Facebook & Amazon
+&nbsp; 🖥 &nbsp;&nbsp;Former SWE intern at Facebook & Amazon  
 &nbsp; 🐕 &nbsp;&nbsp;Dog lover
 
 #### You can find my resume [here](https://github.com/AvaDeLaCruz/DeLaCruz_Ava.pdf/blob/master/DeLaCruz_Ava.pdf), my LinkedIn [here](https://www.linkedin.com/in/ava-delacruz/), and my GitHub stats here:
