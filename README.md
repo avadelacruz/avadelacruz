@@ -1,4 +1,4 @@
-### 👋🏼 Hey there, I'm Ava.
+### 👋🏼  Hey there, I'm Ava.
 I am a...  
 &nbsp; 👩🏻‍💻 &nbsp;&nbsp; STEMinista and full-stack software engineer  
 &nbsp; ✌🏼 &nbsp;&nbsp; computer science undergrad at USC  
