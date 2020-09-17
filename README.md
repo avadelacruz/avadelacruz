@@ -2,7 +2,7 @@
 I am a...  
 &nbsp; 👩🏻‍💻 &nbsp;&nbsp; STEMinista and full-stack software engineer  
 &nbsp; ✌🏼 &nbsp;&nbsp; computer science undergrad at USC  
-&nbsp; 🖥 &nbsp;&nbsp;former SWE intern @facebook & @amazon  
+&nbsp; 🖥 &nbsp;&nbsp;former SWE intern @ facebook & amazon  
 &nbsp; 🍵 &nbsp;&nbsp;bubble tea aficionado  
 &nbsp; 🐕 &nbsp;&nbsp;and dog lover :)
 
