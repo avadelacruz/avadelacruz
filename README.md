@@ -10,3 +10,6 @@ I am a...
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=AvaDeLaCruz&theme=vue&hide=stars&count_private=true&show_icons=true" />
 </a>
+
+
+#### Thanks for stopping by! 🥰
