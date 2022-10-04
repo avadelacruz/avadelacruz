@@ -1,8 +1,8 @@
 ### 👋🏼  Hey there, I'm Ava.
 I am a...  
 &nbsp; 👩🏻‍💻 &nbsp;&nbsp; STEMinista and full-stack software engineer  
-&nbsp; ✌🏼 &nbsp;&nbsp; computer science undergrad at USC  
-&nbsp; 🖥 &nbsp;&nbsp;incoming SWE @ facebook  
+&nbsp; ✌🏼 &nbsp;&nbsp; computer science graduate from USC  
+&nbsp; 🖥 &nbsp;&nbsp; software engineer @ facebook  
 &nbsp; 🍵 &nbsp;&nbsp;bubble tea aficionado  
 &nbsp; 🐕 &nbsp;&nbsp;and dog lover :)
 
