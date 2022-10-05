@@ -1,6 +1,6 @@
 ### 👋🏼  Hey there, I'm Ava.
 I am a...  
-&nbsp; ✌🏼 &nbsp;&nbsp; computer science graduate from USC  
+&nbsp; ✌🏼 &nbsp;&nbsp; recent computer science graduate from USC  
 &nbsp; 👩🏻‍💻 &nbsp;&nbsp; STEMinista and full-stack dev  
 &nbsp; 🖥 &nbsp;&nbsp;software engineer @ facebook  
 &nbsp; 🍵 &nbsp;&nbsp;bubble tea aficionado  
