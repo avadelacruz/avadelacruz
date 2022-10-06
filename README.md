@@ -1,7 +1,7 @@
 ### 👋🏼  Hey there, I'm Ava.
 I am a...  
 &nbsp; 🖥 &nbsp;&nbsp;software engineer @ facebook  
-&nbsp; ✌🏼 &nbsp;&nbsp;USC computer science grad
+&nbsp; ✌🏼 &nbsp;&nbsp;USC computer science grad 
 &nbsp; 🍵 &nbsp;&nbsp;bubble tea aficionado  
 &nbsp; 🐕 &nbsp;&nbsp;and dog lover :)
 
