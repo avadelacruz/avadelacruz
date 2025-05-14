@@ -5,6 +5,6 @@ I am a...
 &nbsp; 🍵 &nbsp;&nbsp; matcha aficionado  
 &nbsp; 🐈 &nbsp;&nbsp;and cat mom :)
 
-#### You can find my resume [here](https://github.com/AvaDeLaCruz/DeLaCruz_Ava.pdf/blob/master/DeLaCruz_Ava.pdf) and my LinkedIn [here](https://www.linkedin.com/in/ava-delacruz/).
+#### You can find my resume [here](https://docs.google.com/document/d/1iLNdr0FndUDzuMyoKZS7PY0cRIwsFQ0dLvx5WRHrp6s/edit?usp=sharing) and my LinkedIn [here](https://www.linkedin.com/in/ava-delacruz/).
 
 #### Thanks for stopping by! 🥰
